@@ -11,4 +11,4 @@ My daily learning notes for NumPy.
 - [Day 6 - Filtering](Numpy_day6_filtering.ipynb)
 
 ## Author
-Jay Chandran Pillai
+Jaychandran Pillai
