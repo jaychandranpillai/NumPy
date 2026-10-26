@@ -8,6 +8,7 @@ My daily learning notes for NumPy.
 - [Day 3 - Indexing & Slicing](NumPy_Day3_Indexing_Slicing.ipynb)
 - [Day 4 - Math on Whole Arrays](NumPy_Day04_Math_on_Whole_Arrays.ipynb)
 - [Day 5 - Useful Functions](NumPy_Day5_Useful_Functions.ipynb)
+- [Day 6 - Filtering](Numpy_day6_filtering.ipynb)
 
 ## Author
 Jay Chandran Pillai
