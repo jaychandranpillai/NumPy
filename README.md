@@ -11,5 +11,7 @@ My daily learning notes for NumPy.
 - [Day 6 - Filtering](Numpy_day6_filtering.ipynb)
 - [Day 7 - Broadcasting](NumPy_Day7_Broadcasting.ipynb)
 
+- [Project - Sales Analysis](https://github.com/jaychandranpillai/numpy-sales-analysis)
+
 ## Author
 Jaychandran Pillai
